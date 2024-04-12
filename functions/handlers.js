@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "🌇 MULTI MUSIX ADV";
-const rtxText = "RTX GAMING";
+const botName = "AR";
+const rtxText = "AR Music";
 const version = "Latest@ v1.5"; 
 const startTime = Date.now();
 
